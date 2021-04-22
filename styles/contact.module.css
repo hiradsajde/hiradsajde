@@ -8,6 +8,7 @@
     justify-content: center;
     flex-wrap: wrap;
     width: 1200px;
+    padding-bottom: 20px;
 }
 .form input{
     width: 100%;
