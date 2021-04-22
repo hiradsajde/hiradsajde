@@ -1,6 +1,11 @@
 import styles from '../styles/socials.module.css'
+import Head from 'next/head'
 const socials = () => {
     return (
+        <>
+        <Head>
+            <title>Hiradsajde - socials</title>
+        </Head>
         <div className={styles.main}>
             <div className={styles.card}>
                 <img src="/images/hiradsajde.jpeg"/>
@@ -12,6 +17,7 @@ const socials = () => {
                 </div>
             </div>
         </div>
+        </>
     )
 }
 export default socials
