@@ -1,0 +1,32 @@
+.main{
+    position: absolute;
+    width: calc(100% - 8px);
+    height: calc(100% - 140px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    width: 300px;
+    height: 400px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.card img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+.card .icons{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card .icons img{
+    width: 70px;
+    height: 70px;
+    margin: 10px;
+}

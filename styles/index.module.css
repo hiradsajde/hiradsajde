@@ -1,0 +1,26 @@
+
+.container{
+   background-color: rgb(255, 255, 255);
+   padding: 0px 15px 15px 0px;
+}
+.main{
+    width: 100%;
+    min-height: calc(100% - 300px);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.main .title{
+    /* font-weight: 700; */
+    font-size: 80px;
+    width: 1200px;
+    margin-top: 200px;
+    text-align: center;
+    padding: 10pxs;
+}
+@media only screen and (max-width : 750px){
+    .main .title{
+        font-size: 65px;
+    }
+}

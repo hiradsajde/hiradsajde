@@ -1,0 +1,42 @@
+.works{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+    padding: 10px;
+    margin: 30px 0px;
+    flex-wrap: wrap;
+}
+.works .card{
+    margin: 30px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.work .card img{
+    width: 99px;
+    height: 108px;
+}
+.works .card .place{
+    font-size: 18px;
+    font-weight: 500;
+    margin: 20px 0px 0px 10px;
+    padding: 5px;
+    line-height: 1.75;
+}
+.works .card .place span{
+    font-family: roboto;
+    font-size: 14px;
+}
+.works .card .time{
+    font-size: 14px;
+}
+@media only screen and (max-width : 750px){
+    .works{
+        justify-content: flex-start;
+    }
+    .works .card{
+        justify-content: center;
+    }
+}

@@ -1,16 +1,45 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+@font-face {
+  font-family: roboto;
+  src: url('/fonts/Roboto-Medium.ttf');
+  font-weight: normal;
 }
-
-a {
-  color: inherit;
-  text-decoration: none;
+@font-face {
+  font-family: roboto;
+  src: url('/fonts/Roboto-Light.ttf');
+  font-weight: lighter;
 }
-
-* {
-  box-sizing: border-box;
+@font-face {
+  font-family: roboto-italic;
+  src: url('/fonts/Roboto-LightItalic.ttf');
+  font-weight: lighter;
+}
+*{
+  font-family: roboto;
+  font-weight: lighter;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+}
+::-webkit-scrollbar{
+  width: 6px;
+}
+::-webkit-scrollbar-thumb{
+  background-color: #111111;
+}
+::selection{
+  background: rgba(240,240,240, 0.7);
+  backdrop-filter: saturate(50%);
+}
+.normal-font{
+  font-weight: normal;
+  font-family: roboto;
+}
+.main{
+  width: calc(100% - 20px);
+  min-height: calc(100% - 300px);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
 }
