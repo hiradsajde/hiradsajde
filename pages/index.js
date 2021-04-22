@@ -16,7 +16,7 @@ const mysite = () => {
       </Head>
       <div className={styles.container}>
         <div className={styles.main}>
-          <h1 className={styles.title}>Hi! my name is Hiradsajde, i'm {title}</h1>
+          <h1 className={styles.title}>Hi! my name's Hiradsajde, i'm {title}</h1>
         </div>
         <div className={styles.main}>
         <Card/>
