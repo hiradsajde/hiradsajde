@@ -3,7 +3,7 @@ const Card = () => {
     return (
         <div className={styles.works}>
             <div className={styles.card}>
-                <img src="/images/logo.png"/>
+                <img src="/images/freelancer.png"/>
                 <p className={styles.place}>Freelance <span>junior</span><br/>
                 <div className={styles.time}>2018-2019</div>
                 </p>
@@ -15,7 +15,7 @@ const Card = () => {
                 </p>
             </div>
             <div className={styles.card}>
-                <img src="/images/logo.png"/>
+                <img src="/images/hourglass.png"/>
                 <p className={styles.place}>Biamoz.io <span>CEO</span><br/>
                 <div className={styles.time}>2021-2022</div>
                 </p>
