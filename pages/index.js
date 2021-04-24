@@ -11,7 +11,7 @@ const mysite = () => {
   return(
     <>
       <Head>
-        <title>Hiradsajde = personal site</title>
+        <title>Hiradsajde - personal site</title>
         <meta charSet="utf8"></meta>
       </Head>
       <div className={styles.container}>
