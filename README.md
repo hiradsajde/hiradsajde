@@ -1,6 +1,7 @@
 ## Hello There 👋 , i'm hiradsajde 
 
-🎂 I was born in 2004 , started programming at 2016 , i like study , statistics science , roller skating , thrill<br/>
+🎂 I was born in 2004 , started programming at 2016 , <br/>
+👍 i like study , statistics science , roller skating , thrill<br/>
 🇮🇷 I'm from Iran , Tehran <br/>
 💻 I am mern & lamp stack developer <br/>
 🗣 Farsi is my native language , but i can speak english* , germany , arabic</br>
