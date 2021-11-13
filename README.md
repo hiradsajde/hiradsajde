@@ -1,4 +1,4 @@
-## Hello There 👋 , i'm hiradsajde 
+# Hello There 👋 , i'm hiradsajde 
 <img src="https://github.com/hiradsajde/hiradsajde/blob/main/public/images/devguy3.gif?raw=true" alt="Developer image" align="right" width="450px"/>
 <div align="left">
   🎂 I was born in 2004 , started programming at 2016 , <br/>
