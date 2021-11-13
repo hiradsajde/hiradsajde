@@ -6,7 +6,9 @@
   🇮🇷 I'm from Iran , Tehran <br/>
   💻 I am mern & lamp stack developer <br/>
   🗣 Farsi is my native language , but i can speak english* , germany , arabic</br></br>
+  
+  [![hiradsajde's stats](https://github-readme-stats.vercel.app/api?username=hiradsajde)](https://github.com/hiradsajde)
+
 </div>
 
-[![hiradsajde's stats](https://github-readme-stats.vercel.app/api?username=hiradsajde)](https://github.com/hiradsajde)
 
