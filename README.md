@@ -1,5 +1,5 @@
 # Hello There 👋 , i'm hiradsajde 
-<img src="https://github.com/hiradsajde/hiradsajde/blob/main/public/images/devguy3.gif?raw=true" alt="Developer image" align="right" width="350px"/>
+<img src="https://github.com/hiradsajde/hiradsajde/blob/main/public/images/devguy3.gif?raw=true" alt="Developer image" align="right" width="300px"/>
 <div align="left">
   🎂 I was born in 2004 , started programming at 2016 , <br/>
   👍 i like study , statistics science , roller skating , thrill<br/>
