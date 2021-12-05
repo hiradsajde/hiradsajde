@@ -9,6 +9,7 @@
       🗣 به انگلیسی و فارسی می توانم صحبت کنم</br></br>
   </details>
 </div>
+<br><br><br>
 <div align="left">
   <details open>
   <summary><b>english introduction</b></summary><br>
@@ -18,6 +19,7 @@
   💻 I'm mern & lamp stack developer <br/>
   🗣 I can speak persian and english</br></br>
   </details>
+  <br><br><br>
   <details>
   <summary><b>Statistics</b></summary>
   <br>
