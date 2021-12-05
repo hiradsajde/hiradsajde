@@ -1,15 +1,5 @@
 # Hello There 👋 , i'm hiradsajde 
- <div align="right">
-  <details open>
-    <summary><b>معرفی فارسی</b></summary><br>
-      🎂 من در سال ۲۰۰۴ متولد شدم و در ۲۰۱۶ برنامه نویسی رو شروع کردم<br/>
-      👍 از ریاضی و یادگیری و اسکیت خوشم میاد<br/>
-      🇮🇷 اهل ایران،تهران هستم <br/>
-      💻 برنامه نویس mern و lamp هستم <br/>
-      🗣 به انگلیسی و فارسی می توانم صحبت کنم</br></br>
-  </details>
-</div>
-<br><br><br>
+
 <div align="left">
   <details open>
   <summary><b>english introduction</b></summary><br>
@@ -19,7 +9,17 @@
   💻 I'm mern & lamp stack developer <br/>
   🗣 I can speak persian and english</br></br>
   </details>
-  <br><br><br>
+  <div align="right">
+  <details>
+    <summary><b>معرفی فارسی</b></summary><br>
+      🎂 من در سال ۲۰۰۴ متولد شدم و در ۲۰۱۶ برنامه نویسی رو شروع کردم<br/>
+      👍 از ریاضی و یادگیری و اسکیت خوشم میاد<br/>
+      🇮🇷 اهل ایران،تهران هستم <br/>
+      💻 برنامه نویس mern و lamp هستم <br/>
+      🗣 به انگلیسی و فارسی می توانم صحبت کنم
+      <br><br><br>
+  </details>
+</div>
   <details>
   <summary><b>Statistics</b></summary>
   <br>
